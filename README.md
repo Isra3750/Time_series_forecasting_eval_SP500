@@ -11,4 +11,5 @@ Three evaluation approach:
 - Walk-forward 2024: rolling 1-week-ahead back-test
 
 Metrics: MAE, RMSE, MAPE.
+
 Hyper-parameters kept minimal (defaults + season_length = 52) so results reflect baseline behaviour.
